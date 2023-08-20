@@ -7,15 +7,13 @@
 
 ## Características:
 
-» Precisa de ajuda? Me procure pelo Discord: `_akiralofy`
+» Precisa de ajuda? Me procure pelo Discord: `akiralofy`
 
 » Pegar todos arquivos do site
 
-» Pegar o html completo
+» Pega Javascript, CSS, Imagens, Fontes e Index.
 
-» Copia o site por inteiro
-
-» Copia database
+» Infelizmente não é capaz de pegar PHP.
 
 
 
