@@ -1,4 +1,4 @@
-<h1 align="center"> Lofy Copier Site </h1> 
+<h1 align="center"> Lofy Copy Site </h1> 
 <p align= "center"> <kbd> <img  src="https://cdn.discordapp.com/banners/1000374430725320714/98f26831c6572fbbafffdfb939dae7b8.png?size=512"width="420"> </kbd><br><br>
 <p></p>
 
