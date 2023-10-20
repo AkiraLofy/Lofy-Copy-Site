@@ -7,7 +7,7 @@
 
 ## Características:
 
-» Precisa de ajuda? Me procure pelo Discord: `akiralofy`
+» Precisa de ajuda? Me procure pelo Discord: `desprezado`
 
 » Pegar todos arquivos do site
 
