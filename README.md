@@ -22,7 +22,7 @@ Abra primeiro `[1] Instalador.bat`
 
 e em seguida abra `[2] Ligar.bat`
 
-<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://cdn.discordapp.com/attachments/1129837173106024468/1133857263153590272/image.png"></img>
+<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="70%" src="https://cdn.discordapp.com/attachments/1168357198657757235/1175092737570250954/image.png"></img>
 
  
  
